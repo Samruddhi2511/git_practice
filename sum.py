@@ -8,6 +8,3 @@ print("inserted at line 7")
 
 print("samruddhi wakchaure")
 line 10:local
-
-
-local 13
