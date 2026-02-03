@@ -1,4 +1,3 @@
 new file for conflict issue understanding
 
-
-hello sam
+hello samruddhi
