@@ -7,4 +7,4 @@ print("sum is displayed")
 print("inserted at line 7")
 
 print("sam")
-pqr
+remote
