@@ -10,4 +10,4 @@ print("samruddhi wakchaure")
 line 10:local
 
 
-local 13
+remote 13
